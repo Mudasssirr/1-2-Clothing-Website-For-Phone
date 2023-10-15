@@ -1,0 +1,115 @@
+/* TABLE MAIN PAGE */
+
+.table-ware-main-img {
+    width: 100%;
+}
+
+.table-ware-heading {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-weight: 800;
+}
+
+.table-ware-paragraph{
+    font-size: 14px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    margin-top: -5px;
+    text-align: center;
+}
+
+.table-ware-imgs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.row>div {
+    width: 48%;
+}
+
+.royal-blue, .royal-voyage, .table-runner, .table-mats, .table-coaster{
+    width: 110% !important;
+    cursor: pointer;
+}
+
+.table-coaster{
+    width: 50% !important;
+    margin-top: -30px;
+    cursor: pointer;
+}
+
+.royal-voyage, .table-mats{
+    margin-left: -15px;
+}
+
+.fifth-img {
+    text-align: center !important;
+    width: 100%;
+    margin-top: 20px !important;
+}
+
+.table-links{
+    font-size: 14px;
+    margin-top: 7px;
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.table-link1:hover{
+    color: red;
+    cursor: pointer; 
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.table-link2:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.table-link3:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.table-link4:hover{
+    color: red;
+    cursor: pointer;
+}
+
+
+.table-link5:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.table-link6:hover{
+    color: red;
+    cursor: pointer;
+}
+
+
+.table-link7:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.table-link2, .table-link4, .table-link6{
+    margin-left: -16px;
+}
+
+.animate__animated{
+    animation-duration: 2s !important;
+}

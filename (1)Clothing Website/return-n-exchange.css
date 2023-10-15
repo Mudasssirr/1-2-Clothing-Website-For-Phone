@@ -1,0 +1,45 @@
+/* FOR RETURN AND EXCHANGE PAGE */
+
+.return-n-exchange{
+    margin-bottom: 35px;
+}
+
+.h4{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 22px !important;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    font-weight: 800 !important;
+}
+
+.h6{
+    font-weight: 700 !important;
+    margin-left: 7px;
+    font-size: 16px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.bold{
+    font-weight: 800 !important;
+}
+
+.big-bold{
+    font-size: 15px !important;
+    font-weight: 800 !important;
+}
+
+.p, .li{
+    font-size: 14px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.li{
+    margin-left: -5px;
+}
+
+.p{
+    margin-left: 7px;
+}

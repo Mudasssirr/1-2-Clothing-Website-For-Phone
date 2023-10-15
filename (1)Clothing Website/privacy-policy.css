@@ -1,0 +1,37 @@
+/* FOR PRIVACY POLICY PAGE */
+
+.privacy-policy{
+    margin-bottom: 50px;
+}
+
+.h3{
+    font-size: 23px !important;
+    font-weight: 900 !important;
+    margin-top: 25px !important;
+    margin-bottom: 20px !important;
+    margin-left: 8px;
+}
+
+.p{
+    font-size: 14px !important;
+    margin-left: 8px;
+    padding-right: 10px !important;
+    margin-bottom: 20px !important;
+}
+
+.h5{
+    font-weight: 800 !important;
+    font-size: 20px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    margin-left: 8px !important;
+}
+
+.h6{
+    font-weight: 900 !important;
+    margin-left: 8px;
+}
+
+.bold{
+    font-weight: bold !important;
+}

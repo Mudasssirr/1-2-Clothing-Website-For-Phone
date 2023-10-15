@@ -1,0 +1,481 @@
+/* FOR ROYAL BLUE MAIN PAGE */
+
+.royal-blue-main-img {
+    width: 100% !important;
+}
+
+.royal-blue-heading {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-weight: 800;
+}
+
+.royal-blue-paragraph {
+    font-size: 14px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    margin-top: -5px;
+    text-align: center;
+}
+
+.royal-blue-products {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 40px;
+}
+
+.royalBlueProducts-btn {
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.royalBlueProducts-btn:active {
+    opacity: 0.7;
+}
+
+.royal-voyage-products {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 40px;
+}
+
+.royalVoyageProducts-btn {
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.royalVoyageProducts-btn:active {
+    opacity: 0.7;
+}
+
+.table-runner-products {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.tableRunnerProducts-btn {
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.tableRunnerProducts-btn:active {
+    opacity: 0.7;
+}
+
+.table-mats-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.tableMatsProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.tableMatsProducts-btn:active{
+    opacity: 0.7;
+}
+
+.coaster-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.coasterProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.coasterProducts-btn:active{
+    opacity: 0.7;
+}
+
+.product-price {
+    font-size: 12px;
+    color: black;
+    font-family: 'Poppins';
+}
+
+.product-price:hover {
+    color: green;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.coin-tray-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.coinTrayProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.coinTrayProducts-btn:active{
+    opacity: 0.7;
+}
+
+.ash-tray-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.ashTrayProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.ashTrayProducts-btn:active{
+    opacity: 0.7;
+}
+
+.balsa-tray-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.balsaTrayProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.balsaTrayProducts-btn:active{
+    opacity: 0.7;
+}
+
+.platter-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.platterProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.platterProducts-btn:active{
+    opacity: 0.7;
+}
+
+.cushions-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.cushionsProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.cushionsProducts-btn:active{
+    opacity: 0.7;
+}
+
+.candle-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.candleProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.candleProducts-btn:active{
+    opacity: 0.7;
+}
+
+.prayer-mat-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.prayerMatProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.prayerMatProducts-btn:active{
+    opacity: 0.7;
+}
+
+.towel-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.towelProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.towelProducts-btn:active{
+    opacity: 0.7;
+}
+
+.night-suit-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.nightSuitProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(35, 39, 43, 0.2) 0px 8px 24px;
+}
+
+.nightSuitProducts-btn:active{
+    opacity: 0.7;
+}
+
+.robes-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.robesProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(35, 39, 43, 0.2) 0px 8px 24px;
+}
+
+.robesProducts-btn:active{
+    opacity: 0.7;
+}
+
+.slipper-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 95px;
+}
+
+.slipperProducts-btn{
+    background-color: #000;
+    color: #fff;
+    width: 165px;
+    margin-left: -2px;
+    border: none;
+    border: 1px solid;
+    padding: 3px;
+    margin-top: 4px;
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 14px;
+    box-shadow: rgba(35, 39, 43, 0.2) 0px 8px 24px;
+}
+
+.slipperProducts-btn:active{
+    opacity: 0.7;
+}
